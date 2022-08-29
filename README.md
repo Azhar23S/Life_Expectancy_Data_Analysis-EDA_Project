@@ -63,7 +63,7 @@ Dataset: <code>[Life Expectancy Dataset](https://github.com/Azhar23S/Life_Expect
 7. Life Expectancy vs Percentage expenditure <p align="center"><img src="https://github.com/Azhar23S/Life_Expectancy_Data_Analysis-EDA_Project/blob/main/Life%20Expectancy%20vs%20Percentage%20Expenditure.png"/></p>
 8. Life Expectancy vs Infant Deaths of Countries in every Year <p align="center"><img src="https://github.com/Azhar23S/Life_Expectancy_Data_Analysis-EDA_Project/blob/main/Life%20Expectancy%20vs%20Infant%20Deaths.png"/></p>
 9. Life Expectancy vs Schooling <p align="center"><img src="https://github.com/Azhar23S/Life_Expectancy_Data_Analysis-EDA_Project/blob/main/Life%20Expectancy%20vs%20%20Schooling.png"/></p>
-10. Life Expectancy vs GDP of Countries in every Year <p align="center"><img src="https://github.com/Azhar23S/Airbnb_Data_Analysis-EDA_Project/blob/main/Room%20types%20with%20Latitude%20and%20Longitude.png"/></p>
+10. Life Expectancy vs GDP of Countries in every Year <p align="center"><img src="https://github.com/Azhar23S/Life_Expectancy_Data_Analysis-EDA_Project/blob/main/Life%20Expectancy%20vs%20GDP%20of%20Countries%20in%20every%20Year.png"/></p>
 
 - <b>Regressor Plot</b>
 
