@@ -1,4 +1,4 @@
-# <p align="center">🌎Life Expectancy Data Analysis - EDA Project 📊</p>
+# <p align="center">🌎 Life Expectancy Data Analysis - EDA Project 📊</p>
 
 <p align="center">I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Life Expectancy using Python</p>
 
