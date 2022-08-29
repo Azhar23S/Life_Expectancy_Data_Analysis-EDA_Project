@@ -52,7 +52,7 @@ Dataset: <code>[Life Expectancy Dataset](https://github.com/Azhar23S/Life_Expect
 
 <h2><b>Objectives</b></h2>
 
-(Note: The Visualized images may not be visible when you open the .ipynb file in Github itself. Kindly download the file and run to see the Visualization)
+(Note: The Visualized images may not be visible when you open the .ipynb file in Github itself, since I used Plotly to visual images. Kindly download the file and run to see the Visualization)
 
 1. Data Cleaning and Statics using Pandas
 2. Correlation Heatmap between Variables <p align="center"><img src="https://github.com/Azhar23S/Life_Expectancy_Data_Analysis-EDA_Project/blob/main/Correlation%20Heatmap.png"/></p>
