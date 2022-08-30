@@ -40,6 +40,8 @@ I have explored the Life Expectancy dataset which contains the data based all ov
  <b>Libraried used:</b>
   - Numpy <img src="https://codebykelvin.com/learning/python/data-science/numpy-series/cover-numpy.png" alt="numpy" width="22" height="22"/>
   - Pandas <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="18" height="25"/>
+  - Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" width="38" height="22"/>
+  - Linear Regression <img src="https://cdn-icons-png.flaticon.com/512/1998/1998646.png" alt="numpy" width="22" height="22"/>
   - Plotly <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wgshctk7kjdxl6omgwra" alt="plotly" width="18" height="18"/>
 
 <b>Why Plotly?</b>
